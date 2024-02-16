@@ -1,0 +1,1 @@
+# openshift_training_2024
